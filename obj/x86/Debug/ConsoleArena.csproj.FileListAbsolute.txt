@@ -1,0 +1,5 @@
+C:\Users\Najee\Documents\GitHub\FireEmblem\ConsoleArena\ConsoleArena\bin\Debug\ConsoleArena.exe
+C:\Users\Najee\Documents\GitHub\FireEmblem\ConsoleArena\ConsoleArena\bin\Debug\ConsoleArena.pdb
+C:\Users\Najee\Documents\GitHub\FireEmblem\ConsoleArena\ConsoleArena\obj\x86\Debug\ConsoleArena.csprojResolveAssemblyReference.cache
+C:\Users\Najee\Documents\GitHub\FireEmblem\ConsoleArena\ConsoleArena\obj\x86\Debug\ConsoleArena.exe
+C:\Users\Najee\Documents\GitHub\FireEmblem\ConsoleArena\ConsoleArena\obj\x86\Debug\ConsoleArena.pdb
